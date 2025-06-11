@@ -34,7 +34,7 @@
 
 * 🎓 I am currently pursuing a degree in Computer Science.
 * 🎮 Aspiring Game Developer with a passion for creating immersive and entertaining experiences.
-* 🚀 My repositories include projects and problem-solving solutions, predominantly in Java and C.
+* 🚀 My repositories include projects and problem-solving solutions, predominantly in Java, C and Python.
 * 🌱 Continuously learning and exploring new technologies to enhance my skills.
 * 📚 Interested in software development, algorithms, and the intersection of technology and creativity.
 
