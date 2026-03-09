@@ -27,9 +27,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mazharsourav&label=Profile%20Visits&color=blue&style=plastic" alt="mazharsourav">
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mazharsourav&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/mazharsourav?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+</div>
 
 
 * 🎓 I am currently pursuing a degree in Computer Science.
