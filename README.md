@@ -1,31 +1,8 @@
 
 <div align="center">
   <h1 align="center"> <b>𝕄𝕒𝕫𝕙𝕒𝕣 𝕊𝕠𝕦𝕣𝕒𝕧</b>
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40" /> 
   </h1>
 </div>
-
-
-<p align="center">
-  <a href="https://facebook.com/mazharulislam.sourav.37">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  
-  <a href="https://www.instagram.com/mazhar_sourav/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <a href="mailto:dev.mazharsourav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <a href="https://linkedin.com/in/mazharulislamsourav">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mazharsourav&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
