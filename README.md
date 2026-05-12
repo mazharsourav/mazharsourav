@@ -9,50 +9,55 @@ Full Stack Developer • System Builder • AI/ML & Game Dev Explorer
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mazharsourav&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/mazharsourav?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+
+<img src="https://komarev.com/ghpvc/?username=mazharsourav&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/mazharsourav?label=Followers&style=for-the-badge&color=blue" />
+
 </div>
 
+---
 
 ## 👨‍💻 About Me
 
 <div align="center">
 
-<h3>Turning ideas into interactive digital experiences.</h3>
+I build systems that turn ideas into real, interactive products —  
+from scalable web platforms to experiments in AI and game mechanics.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓_CS_Student-0EA5E9?style=for-the-badge&logoColor=white" alt="Computer Science Student Mazhar Sourav"/>
-  <img src="https://img.shields.io/badge/💻_Freelancer-10B981?style=for-the-badge&logoColor=white" alt="Freelance Developer Mazhar Sourav"/>
-  <img src="https://img.shields.io/badge/🌍_Dhaka,_Bangladesh-F59E0B?style=for-the-badge&logoColor=white" alt="Based in Dhaka Bangladesh"/>
+<p>
+  <img src="https://img.shields.io/badge/🎓_CS_Student-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻_Freelancer-10B981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌍_Dhaka,_Bangladesh-F59E0B?style=for-the-badge"/>
 </p>
 
 <pre>
 <code>
-<b>mazharsourav@github:~$ current</b>
-  
-→ Learning System Design
-→ Exploring Deployment & Scalable Architectures
-→ Building Full Stack Applications
+mazharsourav@github:~$ current
 
-<b>mazharsourav@github:~$ exploring</b>
+→ System Design & Scalable Architecture
+→ Full Stack Development
+
+mazharsourav@github:~$ exploring
 
 → AI / Machine Learning
 → Game Development
-  
 </code>
 </pre>
 
 </div>
 
+---
+
+
 ## 💼 Tech Stack
 
 <div align="center">
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="50%">
 
-### Frontend Development
+### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -63,35 +68,34 @@ Full Stack Developer • System Builder • AI/ML & Game Dev Explorer
 </td>
 <td align="center" width="50%">
 
-### Backend Development
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+### Backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 </tr>
+
 <tr>
 <td colspan="2" align="center">
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
 </td>
+</div>
 </tr>
 </table>
 
 </div>
 
+---
 
 ## 📊 GitHub Statistics
 
@@ -99,9 +103,6 @@ Full Stack Developer • System Builder • AI/ML & Game Dev Explorer
   <img src="https://yourinsights.vercel.app/api/insight?username=mazharsourav&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
-
-
-***
 ## 🤝 Connect With Me
 
 <div align="center">
