@@ -3,7 +3,7 @@
 <h1>Mazhar Sourav</h1>
 
 <p>
-Full Stack Developer • System Builder • AI/ML & Game Dev Explorer
+Full Stack Developer • System Builder • AI/ML & Game Dev Explorer 
 </p>
 
 </div>
